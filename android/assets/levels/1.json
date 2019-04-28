@@ -1,0 +1,42 @@
+{
+    "levelNumber" : 1,
+    "startGems": 30,
+    "levelMap": "aaaaaaaaaa\naaaaaaaaaa\naaaaaaaaaa\naaaaaaaaaa\ngggggggggg",
+    "enemies": [
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 15,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 30,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 35,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 55,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 65,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 80,
+            "startLine": 4
+        },
+        {
+            "name": "SimpleEnemy",
+            "spawnTime": 81,
+            "startLine": 4
+        }
+    ]
+}
